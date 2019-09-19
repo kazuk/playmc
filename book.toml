@@ -6,4 +6,4 @@ src = "src"
 title = "kazuk's minecraft playlog"
 
 [build]
-build-dir="doc"
+build-dir="docs"
