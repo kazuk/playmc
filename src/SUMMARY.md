@@ -1,3 +1,3 @@
 # Summary
 
-- [Chapter 1](./chapter_1.md)
+- [ToruStarkさん主催のマルチイベント「屍３」に出た](./shikabane_3.md)
