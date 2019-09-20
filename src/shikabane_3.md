@@ -179,7 +179,7 @@
 
   ちょっと調べてみたら Azure で [Minecraft Server](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/msftstack.minecraft-server) が提供されているので、これを起動してみたり設定いじってみたらハードコアにもできたので、練習会場は準備ができそう。数時間起動して40円行かないとかなら財布にも痛くない。
 
-![Costs by resourceのグラフ](2019_09_20_14_20.PNG)
+![Costs by resourceのグラフ](./2019_09_20_14_20.png)
 
   ソロでやっても練習にならないので人募集するしかないかなーといった所。
 
